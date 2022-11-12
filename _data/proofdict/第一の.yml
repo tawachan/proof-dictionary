@@ -1,0 +1,11 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: 第一の
+patterns:
+  - 1つ目は
+  - 1つ目に
+allows: []
+specs:
+  - from: 1つ目の理由は
+    to: 1つ目の理由は
+tags: [修士論文]
