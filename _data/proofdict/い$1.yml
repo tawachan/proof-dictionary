@@ -1,0 +1,14 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: い$1
+patterns:
+  - '/言([\u3040-\u309F])/'
+allows: []
+specs:
+  - from: 言いません
+    to: いいません
+  - from: 言った
+    to: いった
+  - from: 言葉は
+    to: 言葉は
+tags: [修士論文]
