@@ -1,0 +1,10 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: ケース
+patterns:
+  - 事例
+allows: []
+specs:
+  - from: この事例は
+    to: このケースは
+tags: [修士論文]
