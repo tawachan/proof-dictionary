@@ -1,0 +1,19 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: 職員
+patterns:
+  - 担当者
+  - 公務員
+allows:
+  - 国家公務員
+  - 地方公務員
+specs:
+  - from: 担当者は
+    to: 職員は
+  - from: 公務員が
+    to: 職員が
+  - from: 国家公務員によれば
+    to: 国家公務員によれば
+  - from: 東京の地方公務員にとって
+    to: 東京の地方公務員にとって
+tags: [修士論文]
