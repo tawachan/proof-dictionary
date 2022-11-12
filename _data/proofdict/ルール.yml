@@ -1,0 +1,10 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: ルール
+patterns:
+  - 規則
+allows: []
+specs:
+  - from: 規則に基づいて
+    to: ルールに基づいて
+tags: [修士論文]
