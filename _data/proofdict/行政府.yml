@@ -1,0 +1,16 @@
+id: 01GHNWWXK7RA48VXYR7KSG0R26
+description: ''
+expected: 行政府
+patterns:
+  - /行政府?/
+allows:
+  - 行政組織
+  - 行政国家
+specs:
+  - from: 行政組織
+    to: 行政組織
+  - from: この行政の
+    to: この行政府の
+  - from: 行政国家
+    to: 行政国家
+tags: [修士論文]
