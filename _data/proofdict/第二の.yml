@@ -1,0 +1,11 @@
+id: 01GHNXG5Y3ERD06T2FGP9HQE10
+description: ''
+expected: 第二の
+patterns:
+  - 2つ目は
+  - 2つ目に
+allows: []
+specs:
+  - from: 2つ目に
+    to: 第二の
+tags: [修士論文]
